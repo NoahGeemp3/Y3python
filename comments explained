@@ -1,0 +1,10 @@
+#this is a comment
+#python ignores comments
+#comments are used to explain the code
+#the best programmers comment all their code
+#the worst programmers dont comment at all
+#hashtag is not hashtag it is hash symbol, a baby pidgeon dies every time you say hashtag and not hash symbol
+
+#example
+name = "Dave" #this is a variable called name
+print (name) #this displays whatever is in name
